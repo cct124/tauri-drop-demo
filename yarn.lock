@@ -122,6 +122,11 @@
   resolved "https://registry.npmmirror.com/@jridgewell/sourcemap-codec/-/sourcemap-codec-1.4.15.tgz#d7c6e6755c78567a951e04ab52ef0fd26de59f32"
   integrity sha512-eF2rxCRulEKXHTRiDrDy6erMYWqNw4LPdQ8UQA4huuxaQsVeRPFl2oM8oDGxMFhJUWZf9McpLtJasDDZb/Bpeg==
 
+"@tauri-apps/api@^1.3.0":
+  version "1.3.0"
+  resolved "https://registry.npmmirror.com/@tauri-apps/api/-/api-1.3.0.tgz#d0c853ab2cc7506bd826c5f7f260c67c7c15def5"
+  integrity sha512-AH+3FonkKZNtfRtGrObY38PrzEj4d+1emCbwNGu0V2ENbXjlLHMZQlUh+Bhu/CRmjaIwZMGJ3yFvWaZZgTHoog==
+
 "@types/node@^20.2.5":
   version "20.2.5"
   resolved "https://registry.npmmirror.com/@types/node/-/node-20.2.5.tgz#26d295f3570323b2837d322180dfbf1ba156fefb"
